@@ -2,7 +2,7 @@
 Download pictures from any Instagram acount 
 
 <h1>Helo world this is a Instagram Picture Downloader</h1>
-<p>you can download pic profile from any account</p>
+<p><h2>you can download pic profile from any account</h2></p>
 <ul>Steps
   <li>1: install the pakage using this command: py -m pip install instaloader</li>
   <lI>2: use in terminal:$ instaloader name_profile for download pics</li>
