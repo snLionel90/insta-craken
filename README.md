@@ -1,6 +1,11 @@
 # insta-craken
 Download pictures from any Instagram acount 
 
+Para ejecutar dicho script, abrir terminal y ejecutar el comando:
+For use the installer.sh Script, open terminal and launch this command:
+
+<pre><code>bash installer.sh</code></pre>
+
 <h1>Helo world this is a Instagram Picture Downloader</h1>
 <p><h2>you can download pic profile from any account</h2></p>
 <ul>Steps
@@ -17,7 +22,7 @@ Download pictures from any Instagram acount
   </tr>
 </table>
 <h2> So, you can download and install, all the modules, using "requeriments.txt" file, typing the following command:</h2> 
-<ul>
+<pre><code><ul>
   <li> py -m pip install -r requieriments.txt</li>
-</ul>
+</ul></code></pre>
 
