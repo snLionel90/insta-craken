@@ -26,3 +26,7 @@ For use the installer.sh Script, open terminal and launch this command:
   <li> py -m pip install -r requieriments.txt</li>
 </ul></code></pre>
 
+<h3>Documentation</h3>
+<li>https://instaloader.github.io/</li>
+
+
