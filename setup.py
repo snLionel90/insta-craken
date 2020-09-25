@@ -1,6 +1,6 @@
 #setup / configuracion
-__author__ = "sn.lionel90"
-print(__author__)
+#__author__ = "sn.lionel90"
+#print(__author__)
 
 import setuptools
 
