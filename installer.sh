@@ -41,9 +41,8 @@ fi
 if [ "$convert" = true ]; then
         cp instaDL/instadown.py insta-craken/instaDL                                                             
         chmod u+x insta-craken/instaDL                                                                           
-        sudo mv insta-craken/instaDL /usr/local/bin
         echo "####################################### END #######################################"               
-        echo "Para ejecutar la aplicacion, tan solo tienes que abrir la terminal y escribir instaDL o in$        
+        echo "Para ejecutar la aplicacion, tan solo tienes que abrir la terminal y escribir instaDL o insta-craken        
         echo "##########################################################################################"
 fi
 
