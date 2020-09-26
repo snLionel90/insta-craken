@@ -24,7 +24,9 @@ if [ "$opcion" = 1 ]; then
         echo "****Installing TKINTER****"
         sudo apt-get install python3-tk -y
         echo ""
-        echo ""                                                                                                     
+        echo "" 
+        echo "Installing Fabric"                                                                                 
+        sudo apt-egt install fabric    
         clear
         convert=true
 
@@ -42,7 +44,7 @@ if [ "$convert" = true ]; then
         cp instaDL/instadown.py insta-craken/instaDL                                                             
         chmod u+x insta-craken/instaDL                                                                           
         echo "####################################### END #######################################"               
-        echo "Para ejecutar la aplicacion, tan solo tienes que abrir la terminal y escribir instaDL o insta-craken        
+        echo "Para ejecutar la aplicacion, tan solo tienes que abrir la terminal y escribir instadownloader_linux.py      
         echo "##########################################################################################"
 fi
 
